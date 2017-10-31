@@ -1,0 +1,12 @@
+target
+.mvn
+.idea
+.gradle
+build
+classes
+gradle
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+.idea/vcs.xml
